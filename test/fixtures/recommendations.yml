@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  consultations: one
+  text: MyString
+
+two:
+  consultations: two
+  text: MyString
